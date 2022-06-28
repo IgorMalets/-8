@@ -1,0 +1,33 @@
+button {
+  height: 50px;
+  width: 200px;
+  background-color: black;
+  color: white;
+  font-size: 30px;
+  border-radius: 20px;
+}
+
+button:hover {
+  background-color: blue;
+  color: yellow;
+}
+
+.keyboard {
+  background-color: red;
+  color: white;
+}
+
+.keyboard:hover {
+  background-color: blueviolet;
+  color: black;
+}
+
+.board {
+  background-color: aqua;
+  color: brown;
+}
+
+.board:hover {
+  background-color: gold;
+  color: aqua;
+}
